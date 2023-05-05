@@ -43,7 +43,7 @@ https://kimberlyc1904.github.io/Work_Day_Scheduler_Homework5/
 ## Credits
 
 Erwin Jocosing Student. @ github.com/ej619
-Dustin Bonilla Student @ github.com/
+Dustin Bonilla Student @ github.com/19dbo91
 Juan Delgado Tutor
 W3 Schools https://www.w3schools.com/
 ChatGPT https://chat.openai.com/
