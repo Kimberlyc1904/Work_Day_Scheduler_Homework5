@@ -59,3 +59,10 @@ console.log(getHour)
 
   
 });
+
+$(document).ready(function() {
+  // get the current date and time and format it
+  var formattedDate = dayjs().format('dddd, MMMM, d');
+  // set the formatted date and time as the content of the time tag
+  $('#currentDay').text(formattedDate);
+});
